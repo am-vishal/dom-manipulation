@@ -7,3 +7,4 @@
 - Use filter() to filter only millionaires
 - Use sort() to sort by wealth
 - Use reduce() to add all wealth
+![dom-manipulation](https://i.postimg.cc/9FG3RTrD/dom-manipulation.png)
